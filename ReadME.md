@@ -1,0 +1,19 @@
+在根目录下添加Data文件夹：
+
+Data--
+    train--
+        class0--
+            imgs...
+        class1--
+            imgs...
+        class2--
+            imgs...
+    val--
+        class0--
+            imgs...
+        class1--
+            imgs...
+        class2--
+            imgs...
+
+在根目录下下载预训练模型
